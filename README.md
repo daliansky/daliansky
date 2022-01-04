@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daliansky&show_icons=true&theme=synthwave)
+[![WeShop](https://pics.daliansky.net/d/xD0Ar91B/blog/BCM94360Z4/z4z3.png?download=1 "黑果小兵部落阁的淘宝店铺")](https://hackintosher.taobao.com)
